@@ -5,6 +5,7 @@ body {
     height: 100vh;
     background-color: #ffffff;
     overflow: hidden;
+    font-family: 'Nunito';
 }
 
 .header_text {
