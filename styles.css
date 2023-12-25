@@ -5,6 +5,7 @@ body {
     width: auto;
     background-color: #fff;
     overflow: hidden;
+    font-family: 'Nunito';
 }
 
 #noButton {
@@ -19,7 +20,7 @@ body {
 }
 
 .header_text {
-    font-family: 'Nunito';
+    
     font-size: 50px;
     font-weight: bold;
     color: #fc5757;
